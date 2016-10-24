@@ -12,7 +12,7 @@ Tire sua ideia do papel, faça um MVP, crie uma startup sem custos com estas fer
   * [Buscar inspiração](#buscar-inspiração)
   * [Preciso de imagens](#Preciso-de-imagens)
   * [Preciso de icones](#Preciso-de-icones)
-  * [Preciso de site template](#preciso-template)
+  * [Preciso de templates](#preciso-de-templates)
 * [Estar Online](#estar-oniline)
   * [Hospedagem](#Hospedagem)
   * [E-commerce](#e-commerce)
